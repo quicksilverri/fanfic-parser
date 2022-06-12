@@ -7,4 +7,4 @@ I used this Python libraries here:
 * _pandas_ for operating with data 
 * _matplotlib_ and _seaborn_ for visualizations 
 
-Lately I plan to add some interactive plots with _plotly_ library. 
+Later I plan to add some interactive plots with _plotly_ library. 
